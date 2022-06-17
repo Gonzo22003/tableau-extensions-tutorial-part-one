@@ -5,5 +5,10 @@
   "main": "index.js",
   "repository": "https://github.com/Gonzo22003/tableau-extensions-tutorial-part-one",
   "author": "Gonzo22003 <peter.gonzalez@stratus-tis.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "@tableau/extensions-api-types": "^1.8.1",
+    "bootstrap": "^5.1.3",
+    "jquery": "^3.6.0"
+  }
 }
