@@ -1,0 +1,9 @@
+{
+  "name": "PartOne",
+  "version": "1.0",
+  "description": "Learning",
+  "main": "index.js",
+  "repository": "https://github.com/Gonzo22003/tableau-extensions-tutorial-part-one",
+  "author": "Gonzo22003 <peter.gonzalez@stratus-tis.com>",
+  "license": "MIT"
+}
